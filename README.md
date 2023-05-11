@@ -31,3 +31,5 @@
   
 ## My logo
   ![My logo!](https://github.com/FlorinaMuresan/Proiect-practic-testare-manuala/blob/main/app.ico/)
+  
+ Document [link](https://github.com/FlorinaMuresan/Proiect-practic-testare-manuala/commit/42d43c408aa0d209613e8fc6c9eba19bede3f1ee)
