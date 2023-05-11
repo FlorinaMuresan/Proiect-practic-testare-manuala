@@ -28,3 +28,5 @@
 *Orange HRM Project*
   
   **Orange HRM Project**
+
+  ![My logo!](https://github.com/FlorinaMuresan/Proiect-practic-testare-manuala/blob/main/app.ico/)
